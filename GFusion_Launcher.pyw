@@ -97,7 +97,6 @@ SESSION.headers.update({
 })
 
 ALLOWLIST_FILES = {
-    "NeacController-main/NeacController/build.bat",
 }
 
 
